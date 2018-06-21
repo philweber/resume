@@ -1,0 +1,17 @@
+.subhead {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8pt;
+}
+
+li {
+    margin-top: 6pt;
+}
+
+li.toctree-l2:first-child {
+    display: none;
+}
+
+p {
+    margin-top: -4px;
+}

@@ -1,0 +1,6 @@
+site_name: Phil Weber Résumé
+pages: 
+  - Phil Weber Résumé: index.md
+theme: readthedocs
+markdown_extensions: [ smarty ]
+extra_css: [ css/extra.css ]
