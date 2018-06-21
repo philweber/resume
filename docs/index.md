@@ -2,7 +2,7 @@ Phil Weber
 ==========
 
 [http://www.linkedin.com/in/philweber](http://www.linkedin.com/in/philweber)  
-[https://www.philweber.com/](http://www.philweber.com/)  
+[https://www.philweber.com/categories/training/](https://www.philweber.com/categories/training/)  
 [phil@philweber.com](mailto:phil@philweber.com?subject=When+can+you+start?)
 
 <div class="subhead">Technical trainer with extensive software development experience</div>
