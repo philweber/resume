@@ -13,7 +13,7 @@ Experience
 **Senior Technical Training Specialist at New Relic, Inc.**  
 Portland, Oregon / April 2014 – present 
 
-Founded in 2008, New Relic creates web-based tools for application performance management and digital intelligence; it employs about 1,300 people. As the first customer trainer in the company’s Customer Success organization, my assignment was to create a product training curriculum and teach customers how to effectively use New Relic’s products. 
+Founded in 2008, New Relic creates web-based tools for application performance monitoring and digital intelligence; it employs about 1,300 people. As the first customer trainer in the company’s Customer Success organization, my assignment was to create a product training curriculum and teach customers how to effectively use New Relic’s products. 
 
 * Using Action Mapping, determined which tasks customers must learn in order to use the products effectively. 
 * Starting without existing content or curriculum, developed a series of 4 instructor-led courses. Delivered the first course within my first 90 days. 
