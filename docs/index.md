@@ -15,7 +15,7 @@ Portland, Oregon / April 2014 – present
 
 Founded in 2008, New Relic creates web-based tools for application performance management and digital intelligence; it employs about 1,300 people. As the first customer trainer in the company’s Customer Success organization, my assignment was to create a product training curriculum and teach customers how to effectively use New Relic’s products. 
 
-* Using Action Mapping, determined which tasks customers must learn to use the products effectively. 
+* Using Action Mapping, determined which tasks customers must learn in order to use the products effectively. 
 * Starting without existing content or curriculum, developed a series of 4 instructor-led courses. Delivered the first course within my first 90 days. 
 * Created hands-on labs with sample applications in a variety of programming languages, running in Docker containers on AWS, to give students practice using New Relic to troubleshoot real applications. 
 
@@ -26,9 +26,9 @@ Hillsboro, Oregon / May 2005 – April 2014
 
 Fiserv employs over 20,000 people in 155 locations worldwide; my division created software for online banking and bill payment. I taught customers how to use Corillian products, and developers (both internal and external) how to create online banking applications on the Corillian platform. 
 
-* Developed and deliver instructor-led training for developers and system administrators. 
+* Developed and delivered instructor-led training for developers and system administrators. 
 
-* Developed and deliver virtual classroom (WebEx) training. 
+* Developed and delivered virtual classroom (WebEx) training. 
 
 * Used Camtasia and Articulate tools to create screencasts and e-learning. 
 
