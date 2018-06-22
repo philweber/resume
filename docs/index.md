@@ -66,6 +66,8 @@ Speaking and Publications
 -------------------------
 I have published over a dozen feature articles in a variety of technical trade publications. As a member of the INETA Speaker Bureau, I delivered technical presentations to .NET user groups throughout the U.S. I have presented advanced sessions at _VSLive!_ and other technical conferences in the U.S. and abroad. 
 
+More recently, I have authored several technical articles for the [New Relic Blog](https://blog.newrelic.com/author/philweber/).
+
 Training
 --------
 * _Art of Storytelling with McSweeney’s_ --- Cooper Professional Education (2016) 
